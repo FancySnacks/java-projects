@@ -14,26 +14,26 @@ public class magic8ball
 	
 	//holds all possible answers
 	public static String[] answers = {
-										//positive answers
-										"It is certain",
-										"Definitely",
-										"Without a doubt",
-										"Most likely",
-										"Everything points to yes",
-										"Yes",
-										//neutral answers
-										"Ask again later",
-										"Cannot predict",
-										"The future is unclear",
-										"Maybe yes, maybe no",
-										"It depends",
-										//negative answers
-										"Don't count on it",
-										"My sources say no",
-										"Don't think so",
-										"Very doubtful",
-										"The stars are not in position"
-									};
+					//positive answers
+					"It is certain",
+					"Definitely",
+					"Without a doubt",
+					"Most likely",
+					"Everything points to yes",
+					"Yes",
+					//neutral answers
+					"Ask again later",
+					"Cannot predict",
+					"The future is unclear",
+					"Maybe yes, maybe no",
+					"It depends",
+					//negative answers
+					"Don't count on it",
+					"My sources say no",
+					"Don't think so",
+					"Very doubtful",
+					"The stars are not in position"
+					};
 	
 	
 	//---functions---
