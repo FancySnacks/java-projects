@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class RussianRoulette 
 {
 	
-	
 		//---variables---
 
 	
@@ -14,7 +13,6 @@ public class RussianRoulette
 		static int possible_results = 6;
 		static boolean GameInProgress = false;
 		static int player_id = 0;
-	
 			
 			
 		//---functions---
@@ -160,10 +158,6 @@ public class RussianRoulette
 		
 	public static void main(String[] args)
 	{
-		
-		
-		
-		
 		//---core gameplay---
 		
 		System.out.println("Would you like to play Russian Roulette?");
